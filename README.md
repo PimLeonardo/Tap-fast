@@ -1,2 +1,2 @@
 # Tap-fast
-Lua- corona
+https://coronalabs.com/
