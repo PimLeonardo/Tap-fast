@@ -4,7 +4,6 @@
 --
 -----------------------------------------------------------------------------------------
 
--- Your code here
 
 
 local composer = require("composer")
@@ -71,7 +70,7 @@ end
 
  print( "Teste " .. os.date('*t').sec )
 		segundoFinal = os.date('*t').sec
-		if ((segundoFinal-segundoInicial) < 1.8) then
+		if ((segundoFinal-segundoInicial) < 1) then
 			local number = math.random( 6 )
 			if (number == 1) then
 			botao[1]:setFillColor( 1,0,0 )
