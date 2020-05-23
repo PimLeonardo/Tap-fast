@@ -1,5 +1,4 @@
-# Tap-fast
-## joguinho de reflexo
+# joguinho de reflexo
 Engine: https://coronalabs.com/
 
 ![1](https://github.com/PimLeonardo/Tap-fast/blob/master/imagens.demo/1.png)
