@@ -1,7 +1,6 @@
 # Tap-fast
-https://coronalabs.com/
-
-joguinho de reflexo  onde se demorar para clicar perde.
+## joguinho de reflexo
+Engine: https://coronalabs.com/
 
 ![1](https://github.com/PimLeonardo/Tap-fast/blob/master/imagens.demo/1.png)
 
