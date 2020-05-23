@@ -1,7 +1,7 @@
 # joguinho de reflexo
 Engine: https://coronalabs.com/
 
-![1](https://github.com/PimLeonardo/Tap-fast/blob/master/imagens.demo/1.png)
+![1](https://github.com/PimLeonardo/Tap-fast/blob/master/imagens.demo/1.png)![8](https://github.com/PimLeonardo/Tap-fast/blob/master/imagens.demo/8.png)
 
 ![2](https://github.com/PimLeonardo/Tap-fast/blob/master/imagens.demo/2.png)![3](https://github.com/PimLeonardo/Tap-fast/blob/master/imagens.demo/3.png)
 
